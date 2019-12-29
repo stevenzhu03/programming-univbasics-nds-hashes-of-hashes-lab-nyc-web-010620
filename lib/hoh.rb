@@ -43,4 +43,11 @@ def naming_system
   # HoH all the way to Species!
 
 
+   label: "Kingdom",
+   sub_category: {
+     label: "Phylum",
+     sub_category: {
+       label: "Class",
+       
+
 end
